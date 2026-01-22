@@ -1,1 +1,0 @@
-smart_health_care_systems
